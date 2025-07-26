@@ -31,3 +31,11 @@ google-services.json
 
 # Android Profiling
 *.hprof
+/node_modules
+/android/app/build
+/android/app/.cxx
+/android/app/.externalNativeBuild
+/android/app/.gradle
+/android/app/.idea
+/android/app/.vscode
+/android/app/.vscode
