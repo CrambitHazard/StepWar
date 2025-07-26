@@ -1,0 +1,25 @@
+{
+  "name": "stepwar",
+  "version": "1.0.0",
+  "description": "Offline Battle Arena for Step Count Battles",
+  "private": true,
+  "workspaces": [
+    "stepwar-ui"
+  ],
+  "scripts": {
+    "dev": "cd stepwar-ui && npm run dev",
+    "build": "cd stepwar-ui && npm run build",
+    "preview": "cd stepwar-ui && npm run preview",
+    "lint": "cd stepwar-ui && npm run lint"
+  },
+  "keywords": [
+    "pedometer",
+    "fitness",
+    "battle",
+    "steps",
+    "react",
+    "typescript"
+  ],
+  "author": "StepWar Team",
+  "license": "MIT"
+}
